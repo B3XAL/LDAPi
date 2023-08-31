@@ -4,7 +4,7 @@ Esta carpeta contiene scripts relacionados con la realización de inyecciones LD
 
 ## Contenido
 
-- `LDAPi_atributos_lista.py`: Script para obtener una lista de atributos de un servidor LDAP.
+- `LDAPi_search_atributos.py`: Script para obtener una lista de atributos de un servidor LDAP.
 - `LDAPi_descripcion_atributos.py`: Script para obtener descripciones de atributos en un servidor LDAP.
 - `LDAPi_search_users.py`: Script para buscar usuarios en un servidor LDAP utilizando consultas de búsqueda.
 
